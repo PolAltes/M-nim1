@@ -1,0 +1,2 @@
+No he tingut temps d'acabar la implementació a Swagger i algun test també falta per revisar, però pel general els tests que sí he pogut fer funcionen.
+Es poden afegir usuaris, afegir punts en un mapa i es poden afegir posicionament d'usuaris en relació a dits punts.
